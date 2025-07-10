@@ -1,7 +1,8 @@
-<h1>
-  <img src="https://github.com/Sourabh1710/YouTube-Channel-Performance-Dashboard/blob/main/youtube%20%20icon.png" width="32" style="vertical-align: middle; margin-right: 8px;" />
-  Excel Project: YouTube Channel Performance Dashboard
-</h1>
+<p align="left">
+  <img src="https://github.com/Sourabh1710/YouTube-Channel-Performance-Dashboard/blob/main/youtube%20%20icon.png" width="30" alt="YouTube Icon" />
+  <strong style="font-size: 28px;"> Excel Project: YouTube Channel Performance Dashboard </strong>
+</p>
+
 
 
 
