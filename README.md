@@ -1,4 +1,4 @@
-![Youtube Icon](https://github.com/Sourabh1710/YouTube-Channel-Performance-Dashboard/blob/main/Dashboard.png) # Excel Project : YouTube Channel Performance Dashboard
+![Youtube Icon](https://github.com/Sourabh1710/YouTube-Channel-Performance-Dashboard/blob/main/youtube%20%20icon.png) # Excel Project : YouTube Channel Performance Dashboard
 
 ## 🔍 Overview
 
