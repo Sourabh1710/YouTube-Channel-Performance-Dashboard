@@ -1,7 +1,5 @@
-<h1>
-  <i class="fa-brands fa-youtube"></i>
-  Excel Project: YouTube Channel Performance Dashboard
-</h1>
+<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="24"/> **Excel Project: YouTube Channel Performance Dashboard**
+
 
 
 ## 🔍 Overview
