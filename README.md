@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://github.com/Sourabh1710/YouTube-Channel-Performance-Dashboard/blob/main/icons8-youtube-50.svg" />
+  <i class="fa-brands fa-youtube"></i>
   Excel Project: YouTube Channel Performance Dashboard
 </h1>
 
