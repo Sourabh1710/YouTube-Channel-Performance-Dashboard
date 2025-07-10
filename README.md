@@ -1,4 +1,4 @@
-# 📺 Excel Project : YouTube Channel Performance Dashboard
+![Youtube Icon](https://github.com/Sourabh1710/YouTube-Channel-Performance-Dashboard/blob/main/Dashboard.png) # Excel Project : YouTube Channel Performance Dashboard
 
 ## 🔍 Overview
 
@@ -19,7 +19,7 @@ This project analyzes the performance of a YouTube channel over 6 months using E
 
 ## 📊 Dashboard Preview
 
-> ✅ Upload the image of your final dashboard and paste the GitHub link below:
+
 
 ![YouTube Channel Performance Dashboard](https://github.com/Sourabh1710/YouTube-Channel-Performance-Dashboard/blob/main/Dashboard.png)
 
