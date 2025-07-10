@@ -1,6 +1,4 @@
-<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="24"/> **Excel Project: YouTube Channel Performance Dashboard**
-
-
+# 📺 Excel Project 6: YouTube Channel Performance Dashboard
 
 ## 🔍 Overview
 
